@@ -22,6 +22,8 @@ Visual Studio Code
 
 MadMapper
 
+OpenSignals (r)evolution
+
 loopMIDI
 
 # How to set up ? 
