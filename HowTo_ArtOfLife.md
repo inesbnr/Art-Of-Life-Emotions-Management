@@ -29,6 +29,7 @@ loopMIDI
 You can find attached here the description of every step of the installation. You can learn how to correctly position the sensors on the user, how to launch the software and calibrate it, and how to set up the installation.
 
 
+<img width="1500" alt="Template2" src="https://github.com/inesbnr/Art-Of-Life-Emotions-Management/assets/98738106/dda29e5b-5912-4d6b-8515-d4f848d9cb0a">
 
 
 
@@ -86,3 +87,7 @@ Then click on "Video-output-1" and a new table with more information will appear
 This button lets you load a new window that you'll need to place on your "second screen", i.e. whatever the projector is projecting.
 Now the visual projection is all set ! But let's make sure that the midi port are well connected to it.
 As we are projecting onto a 3D wall, make sure to adjust the shape of the visuals to fit the structure. Select the "ArtOfLife" group and adjust its size along the size of the structure.
+
+![Template2-2](https://github.com/inesbnr/Art-Of-Life-Emotions-Management/assets/98738106/18820710-9a32-43c8-9a69-be9f664e5078)
+
+
